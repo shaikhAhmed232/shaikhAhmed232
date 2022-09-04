@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mohammed Ahmed Shaikh
 #### I am a full stack developer.
-![I am a full stack developer.]
+
 <img src="https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg" width="300" height="200" align="right" />
 
 I am full stack developer who is passionate about building full fledge web applications and learning about new web technologies. 
