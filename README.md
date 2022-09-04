@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mohammed Ahmed shaikh</h1>
-<h3 align="center">A passionate full stack developer.</h3>
+### Hi there 👋, my name is Mohammed Ahmed Shaikh
+#### I am a full stack developer.
+![I am a full stack developer.]
+<img src="https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg" width="300" height="200" align="right" />
 
-- 💬 Ask me about **react, django, next js**
+I am full stack developer who is passionate about building full fledge web applications and learning about new web technologies. 
+
+Skills: React / Django / Next Js / HTML / CSS / Redux
 
 - 📫 How to reach me **skmdahmed995@gmail.com**
 
