@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mohammed Ahmed Shaikh
-#### I am intrested in web developement.
+#### I am interested in web developement.
 
 <img src="https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg" width="300" height="200" align="right" />
 
